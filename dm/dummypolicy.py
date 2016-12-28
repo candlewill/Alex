@@ -241,6 +241,11 @@ class DummyDialoguePolicy(DialoguePolicy):
             # TODO: allow combining with other questions?
             res_da = self.get_current_time_res_da(dialogue_state, accepted_slots, has_state_changed)
 
+        # topic-dependent
+        elif fact["user_wants_to_know_the_weather"]:
+            # implicitly confirm all changed slots
+            pass
+
         else:
             # NLG("Can I help you with anything else?")
             res_da = DialogueAct("reqmore()")
