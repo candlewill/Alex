@@ -1,0 +1,6 @@
+Bronx	bronx
+Brooklyn	brooklyn
+Long Island	long island
+Manhattan	manhattan
+Queens	queens
+Staten Island	staten island

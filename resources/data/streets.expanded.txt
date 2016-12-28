@@ -1,0 +1,151 @@
+1 Av	first avenue
+1 Ave	first avenue
+1 Ct	first court
+1 Pl	first place
+1 St	first street
+10 Ave	tenth avenue
+10 St	tenth street
+100 Ave	hundredth avenue; one hundredth avenue
+100 Dr	one hundredth drive; hundredth drive
+100 Rd	one hundredth road; hundredth road
+100 St	hundredth street; one hundredth street
+101 Ave	hundred and first avenue; one hundred and first avenue
+101 Rd	hundred and first road; one hundred and first road
+101 St	one hundred and first street; hundred and first street
+102 Ave	one hundred and second avenue; hundred and second avenue
+102 Rd	one hundred and second road; hundred and second road
+102 St	hundred and second street; one hundred and second street
+103 Ave	hundred and third avenue; one hundred and third avenue
+103 Dr	one hundred and third drive; hundred and third drive
+103 Rd	one hundred and third road; hundred and third road
+103 St	hundred and third street; one hundred and third street
+104 Ave	one hundred and fourth avenue; hundred and fourth avenue
+104 Rd	one hundred and fourth road; hundred and fourth road
+104 St	hundred and fourth street; one hundred and fourth street
+105 Ave	one hundred and fifth avenue; hundred and fifth avenue
+105 St	hundred and fifth street; one hundred and fifth street
+106 Ave	one hundred and sixth avenue; hundred and sixth avenue
+106 Rd	hundred and sixth road; one hundred and sixth road
+106 St	one hundred and sixth street; hundred and sixth street
+107 Ave	one hundred and seventh avenue; hundred and seventh avenue
+107 Rd	one hundred and seventh road; hundred and seventh road
+107 St	one hundred and seventh street; hundred and seventh street
+108 Ave	hundred and eighth avenue; one hundred and eighth avenue
+108 Dr	hundred and eighth drive; one hundred and eighth drive
+108 Rd	one hundred and eighth road; hundred and eighth road
+108 St	hundred and eighth street; one hundred and eighth street
+109 Ave	one hundred and ninth avenue; hundred and ninth avenue
+109 Dr	hundred and ninth drive; one hundred and ninth drive
+109 Rd	hundred and ninth road; one hundred and ninth road
+109 St	hundred and ninth street; one hundred and ninth street
+11 Ave	eleventh avenue
+11 St	eleventh street
+110 Ave	one hundred and tenth avenue; hundred and tenth avenue
+110 Rd	hundred and tenth road; one hundred and tenth road
+110 St	one hundred and tenth street; hundred and tenth street
+111 Ave	hundred and eleventh avenue; one hundred and eleventh avenue
+111 Rd	hundred and eleventh road; one hundred and eleventh road
+111 St	hundred and eleventh street; one hundred and eleventh street
+112 Ave	hundred and twelfth avenue; one hundred and twelfth avenue
+112 Pl	hundred and twelfth place; one hundred and twelfth place
+112 Rd	hundred and twelfth road; one hundred and twelfth road
+112 St	one hundred and twelfth street; hundred and twelfth street
+113 Ave	hundred and thirteenth avenue; one hundred and thirteenth avenue
+113 Dr	hundred and thirteenth drive; one hundred and thirteenth drive
+113 Pl	hundred and thirteenth place; one hundred and thirteenth place
+113 Rd	hundred and thirteenth road; one hundred and thirteenth road
+113 St	one hundred and thirteenth street; hundred and thirteenth street
+114 Ave	hundred and fourteenth avenue; one hundred and fourteenth avenue
+114 Dr	hundred and fourteenth drive; one hundred and fourteenth drive
+114 Pl	hundred and fourteenth place; one hundred and fourteenth place
+114 Rd	hundred and fourteenth road; one hundred and fourteenth road
+114 St	one hundred and fourteenth street; hundred and fourteenth street
+114 Ter	hundred and fourteenth terrace; one hundred and fourteenth terrace
+115 Ave	one hundred and fifteenth avenue; hundred and fifteenth avenue
+115 Ct	hundred and fifteenth court; one hundred and fifteenth court
+115 Dr	one hundred and fifteenth drive; hundred and fifteenth drive
+115 Rd	hundred and fifteenth road; one hundred and fifteenth road
+115 St	hundred and fifteenth street; one hundred and fifteenth street
+115 Ter	one hundred and fifteenth terrace; hundred and fifteenth terrace
+116 Ave	one hundred and sixteenth avenue; hundred and sixteenth avenue
+116 Dr	one hundred and sixteenth drive; hundred and sixteenth drive
+116 Rd	hundred and sixteenth road; one hundred and sixteenth road
+116 St	one hundred and sixteenth street; hundred and sixteenth street
+117 Ave	one hundred and seventeenth avenue; hundred and seventeenth avenue
+117 Rd	one hundred and seventeenth road; hundred and seventeenth road
+117 St	hundred and seventeenth street; one hundred and seventeenth street
+118 Ave	hundred and eighteenth avenue; one hundred and eighteenth avenue
+118 Rd	hundred and eighteenth road; one hundred and eighteenth road
+118 St	one hundred and eighteenth street; hundred and eighteenth street
+119 Ave	one hundred and nineteenth avenue; hundred and nineteenth avenue
+119 Dr	hundred and nineteenth drive; one hundred and nineteenth drive
+119 Rd	one hundred and nineteenth road; hundred and nineteenth road
+119 St	one hundred and nineteenth street; hundred and nineteenth street
+12 Ave	twelfth avenue
+12 Rd	twelfth road
+12 St	twelfth street
+120 Ave	hundred and twentieth avenue; one hundred and twentieth avenue
+120 Rd	hundred and twentieth road; one hundred and twentieth road
+120 St	hundred and twentieth street; one hundred and twentieth street
+121 Ave	hundred and twenty first avenue; one hundred and twenty first avenue
+121 St	one hundred and twenty first street; hundred and twenty first street
+122 Ave	one hundred and twenty second avenue; hundred and twenty second avenue
+122 Pl	one hundred and twenty second place; hundred and twenty second place
+122 St	one hundred and twenty second street; hundred and twenty second street
+123 Ave	hundred and twenty third avenue; one hundred and twenty third avenue
+123 St	hundred and twenty third street; one hundred and twenty third street
+124 Ave	one hundred and twenty fourth avenue; hundred and twenty fourth avenue
+124 Pl	one hundred and twenty fourth place; hundred and twenty fourth place
+124 St	one hundred and twenty fourth street; hundred and twenty fourth street
+125 Ave	one hundred and twenty fifth avenue; hundred and twenty fifth avenue
+125 St	hundred and twenty fifth street; one hundred and twenty fifth street
+126 Ave	hundred and twenty sixth avenue; one hundred and twenty sixth avenue
+126 Pl	hundred and twenty sixth place; one hundred and twenty sixth place
+126 St	hundred and twenty sixth street; one hundred and twenty sixth street
+127 Ave	one hundred and twenty seventh avenue; hundred and twenty seventh avenue
+127 Pl	one hundred and twenty seventh place; hundred and twenty seventh place
+127 St	hundred and twenty seventh street; one hundred and twenty seventh street
+128 Ave	hundred and twenty eighth avenue; one hundred and twenty eighth avenue
+128 Dr	one hundred and twenty eighth drive; hundred and twenty eighth drive
+128 Rd	one hundred and twenty eighth road; hundred and twenty eighth road
+128 St	one hundred and twenty eighth street; hundred and twenty eighth street
+129 Ave	one hundred and twenty ninth avenue; hundred and twenty ninth avenue
+129 Rd	hundred and twenty ninth road; one hundred and twenty ninth road
+129 St	hundred and twenty ninth street; one hundred and twenty ninth street
+13 Ave	thirteenth avenue
+13 Rd	thirteenth road
+13 St	thirteenth street
+130 Ave	one hundred and thirtieth avenue; hundred and thirtieth avenue
+130 Dr	hundred and thirtieth drive; one hundred and thirtieth drive
+130 Pl	one hundred and thirtieth place; hundred and thirtieth place
+130 Rd	hundred and thirtieth road; one hundred and thirtieth road
+130 St	one hundred and thirtieth street; hundred and thirtieth street
+131 Ave	one hundred and thirty first avenue; hundred and thirty first avenue
+131 Rd	hundred and thirty first road; one hundred and thirty first road
+131 St	one hundred and thirty first street; hundred and thirty first street
+132 Ave	one hundred and thirty second avenue; hundred and thirty second avenue
+132 Rd	hundred and thirty second road; one hundred and thirty second road
+132 St	one hundred and thirty second street; hundred and thirty second street
+133 Ave	hundred and thirty third avenue; one hundred and thirty third avenue
+133 Dr	hundred and thirty third drive; one hundred and thirty third drive
+133 Pl	hundred and thirty third place; one hundred and thirty third place
+133 Rd	hundred and thirty third road; one hundred and thirty third road
+133 St	hundred and thirty third street; one hundred and thirty third street
+134 Ave	hundred and thirty fourth avenue; one hundred and thirty fourth avenue
+134 Pl	hundred and thirty fourth place; one hundred and thirty fourth place
+134 Rd	hundred and thirty fourth road; one hundred and thirty fourth road
+134 St	hundred and thirty fourth street; one hundred and thirty fourth street
+135 Ave	hundred and thirty fifth avenue; one hundred and thirty fifth avenue
+135 Dr	hundred and thirty fifth drive; one hundred and thirty fifth drive
+135 Pl	hundred and thirty fifth place; one hundred and thirty fifth place
+135 Rd	hundred and thirty fifth road; one hundred and thirty fifth road
+135 St	hundred and thirty fifth street; one hundred and thirty fifth street
+136 Ave	one hundred and thirty sixth avenue; hundred and thirty sixth avenue
+136 Rd	hundred and thirty sixth road; one hundred and thirty sixth road
+136 St	hundred and thirty sixth street; one hundred and thirty sixth street
+137 Ave	hundred and thirty seventh avenue; one hundred and thirty seventh avenue
+137 Rd	one hundred and thirty seventh road; hundred and thirty seventh road
+137 St	hundred and thirty seventh street; one hundred and thirty seventh street
+138 Ave	one hundred and thirty eighth avenue; hundred and thirty eighth avenue
+138 Pl	hundred and thirty eighth place; one hundred and thirty eighth place
+138 Rd	hundred and thirty eighth road; one hundred and thirty eighth road
